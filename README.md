@@ -71,4 +71,4 @@ SQL-Pizza-Sales-Analysis/
 - Customer segmentation based on order behavior
 
 ## 📬 Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manish-kaushik-044848275/) or explore more projects on [GitHub](https://github.com/yourusername).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manish-kaushik-044848275/) or explore more projects on [GitHub](https://github.com/kaushikmanish34).
